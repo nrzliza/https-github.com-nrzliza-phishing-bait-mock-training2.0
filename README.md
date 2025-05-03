@@ -1,1 +1,1 @@
-# https-github.com-nrzliza-phishing-bait-mock-training2.0
+# https-github.com-phishing-bait-mock-training2.0
